@@ -1,2 +1,2 @@
 Tutorial by clear code, here is the link
-#PogluTheFirst/Pygame-tutorial
+#https://www.youtube.com/watch?v=8OMghdHP-zs
