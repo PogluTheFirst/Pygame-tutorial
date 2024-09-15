@@ -1,0 +1,12 @@
+# pip install pygame-ce (ce for community edition) 
+# basically better version and version that is still maintained 
+
+# In pygame there are two main components:
+# Surfaces and Rectangles 
+# Surfaces can be anything from pngs to text to sounds or the window(display surface)
+# Rectangle wraps around a surface and positions it Also does collisions
+# Rectangles are used to draw things on the screen
+
+# Updating
+# just a forever loop
+# checks every frame
